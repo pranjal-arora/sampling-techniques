@@ -28,5 +28,6 @@ To adjust the class distribution, the Majority class is under-sampled using Rand
 ### Accuracy Scores:-
 ![Accuracy Score](https://github.com/pranjal-arora/sampling-techniques/blob/master/Scores_Screenshot.png?raw=true)
 
-### Random Tree Classifier gives highest accuracy for SMOTE EEN Over-Sampling method.
+### Conclusions:-
+Random Tree Classifier gives highest accuracy for SMOTE EEN Over-Sampling method.
 
