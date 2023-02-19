@@ -9,12 +9,12 @@ The features "Time" and "Amount" are not principal components, hence they are sc
 
 5 different samples of the dataset are made, and 5 different Classifier models are applied to each sample, and Accuracy of each model is observed. 
 
-To adjust the class distribution, the Majority class is under-sampled using Random Under Sampling. The Minority class is over-sampled using SMOTE and EEN. 
+To adjust the class distribution, the Majority class is under-sampled using Random Under Sampling. The Minority class is over-sampled using SMOTE and ENN. 
 
 ### Samples Made:-
 1. Sample1:- Random Under Sampling
 2. Sample2:- SMOTE Over-Sampling
-3. Sample3:- SMOTE EEN Sampling
+3. Sample3:- SMOTE ENN Sampling
 4. Sample4:- Stratified Sampling
 5. Sample5:- Systematic Sampling
 
@@ -29,5 +29,5 @@ To adjust the class distribution, the Majority class is under-sampled using Rand
 ![Accuracy Score](https://github.com/pranjal-arora/sampling-techniques/blob/master/Scores_Screenshot.png?raw=true)
 
 ### Conclusions:-
-Random Tree Classifier gives highest accuracy for SMOTE EEN Over-Sampling method.
+Random Tree Classifier gives highest accuracy for SMOTE ENN Over-Sampling method.
 
